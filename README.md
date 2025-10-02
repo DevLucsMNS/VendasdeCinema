@@ -45,7 +45,7 @@ Para compilar e executar este projeto em seu ambiente local, siga os passos abai
 
 1.  **Clone o repositório** (ou baixe os arquivos):
     ```bash
-    git clone [https://github.com/DevLucsMNS/VendasdeCinema.git)
+    git clone https://github.com/DevLucsMNS/VendasdeCinema.git
     ```
 
 2.  **Navegue até a pasta do projeto** pelo terminal:
