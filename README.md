@@ -45,23 +45,23 @@ Para compilar e executar este projeto em seu ambiente local, siga os passos abai
 
 1.  **Clone o repositório** (ou baixe os arquivos):
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone [https://github.com/DevLucsMNS/VendasdeCinema.git)
     ```
 
 2.  **Navegue até a pasta do projeto** pelo terminal:
     ```bash
-    cd nome-do-repositorio
+    cd VendasdeCinema
     ```
 
 3.  **Compile o código-fonte:**
     ```bash
-    gcc main.c -o CinemaTrack.exe
+    gcc main.c -o CineTron.exe
     ```
-    *(Este comando compila o arquivo `main.c` и gera um executável chamado `CinemaTrack.exe`)*
+    *(Este comando compila o arquivo `main.c` и gera um executável chamado `CineTron.exe`)*
 
 4.  **Execute o programa:**
     ```bash
-    .\CinemaTrack.exe
+    .\CineTron.exe
     ```
 
 ---
