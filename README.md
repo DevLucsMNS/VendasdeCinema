@@ -1,4 +1,4 @@
-# CinemaTrack - Relatório de Vendas de Cinema
+# CineTron - Relatório de Vendas de Cinema
 
 ![Linguagem](https://img.shields.io/badge/Linguagem-C-blue.svg)
 ![Licença](https://img.shields.io/badge/Licença-MIT-green.svg)
