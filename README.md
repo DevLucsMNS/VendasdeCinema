@@ -68,7 +68,7 @@ Para compilar e executar este projeto em seu ambiente local, siga os passos abai
 
 ## 📸 Demonstração
 
-![Print Terminal](<img width="1597" height="313" alt="Print Terminal (Venda de cinema)" src="https://github.com/user-attachments/assets/579bb311-0e6e-4eee-9f96-379a56f5e8fa" />
+(<img width="1597" height="313" alt="Print Terminal (Venda de cinema)" src="https://github.com/user-attachments/assets/579bb311-0e6e-4eee-9f96-379a56f5e8fa" />
 \)
 
 ---
